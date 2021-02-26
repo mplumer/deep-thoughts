@@ -20,7 +20,7 @@ Deep-Thoughts is a social media application, where users can create an account, 
 ## Link to Deployed Application
 * [Deep-Thoughts](https://max-deep-thoughts.herokuapp.com/)
 
-![Screenshot](public/images/screenshot1.png)
+![Screenshot](public/screenshot1.jpg)
 
 
 ### Contributing
