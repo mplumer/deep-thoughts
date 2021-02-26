@@ -13,20 +13,15 @@ Deep-Thoughts is a social media application, where users can create an account, 
 * As a user, I can create an account and login to the application through the front end
 * As a user, I can create a thought, create a reaction to a thought, and add a friend through the front end of the application
 
-## Table of Contents
-* [Usage](#usage) 
-* [Contributing](#contributing)
-* [Questions](#questions)
 
 ## Link to Github Repository
 * [Deep-Thoughts](https://github.com/mplumer/deep-thoughts)
 
-![Screenshot](public/images/screenshot1.png)
-![Screenshot](public/images/screenshot2.png)
-![Screenshot](public/images/screenshot3.png)
+## Link to Deployed Application
+* [Deep-Thoughts](https://max-deep-thoughts.herokuapp.com/)
 
-### Usage
-Type the name of a transaction, the amount, and click to either add or subtract the funds from your budget. A record of the transaction is kept, and reflected in the dynamic graph below the inputs. 
+![Screenshot](public/images/screenshot1.png)
+
 
 ### Contributing
 Deep-Thoughts is an open source project built from starter code, cloned from a Vanderbilt Coding Bootcamp assignment. Anyone is encouraged to contribute by cloning or forking the code and working to improve its function and versatility.
